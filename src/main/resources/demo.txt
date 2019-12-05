@@ -1,0 +1,278 @@
+Sorry for the multiple exclamation marks but IntelliJ 11 ust deleted all my projects. In fact, it even deleted all the prjects that were not open in IntelliJ!!!
+Could someone please tell me how I can recover those files ? Or am I to assume they are all gone!
+How did this happen ? I am not sure but the last time I saw my code was when I opened IntelliJ and it opened the projects that were previously open. It began to index one of them but I did not need that project open and I closed it. IntelliJ became unresponsive and I closed all the projects. I try to open them again and there is nothing!!!  Including the ones which were not even open in IntelliJ!!!   There is a major bug in IntelliJ and I am paying a heavy price for it now!
+Thanks for replying.
+I am 101% sure I did not explicitly delete the sources!
+And how does it explain IntelliJ deleting all the other IntelliJ projects which were not even open at that time ?
+
+I had over 40 projects (some can be recovered and some cannot!) and all of them...ALL OF THEM...wiped clean!
+
+In the 5 years I have been using IntellI, this sort of a thing has never happened. This leads me to believe there is a serious bug in IntelliJ 11
+
+And there is no question of recovering from local history because there are no local files any more. All of them are deleted!
+{
+    "status": "ok",
+    "totalResults": 12552,
+    "articles": [
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Weston Almond",
+            "title": "The original Yoda was almost a disaster",
+            "description": "Legendary Muppeteer Kathy Mullen has had her hand inside a lot of puppets, from The Muppet Show to Fraggle Rock. But one of her most memorable jobs was on the unforgiving swamps of Dagobah, controlling a certain backwards talking Jedi Master. Read more... Mor…",
+            "url": "https://mashable.com/video/yoda-puppeteer/",
+            "urlToImage": "https://mondrian.mashable.com/2019%252F11%252F27%252F03%252F7c3350948d4541b4bc122ea7ef1ff261.76e72.png%252F1200x630.png?signature=UU2eQX1tfvDZppnFvZE_VeQGl4A=",
+            "publishedAt": "2019-11-27T21:14:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-new-york-times",
+                "name": "The New York Times"
+            },
+            "author": "Aimee Ortiz",
+            "title": "Plot to Steal Florida Hurricane Aid Leads to Indictments",
+            "description": "Five people, including three business executives, were indicted on charges that they conspired to take $5 million in disaster aid after Hurricane Michael in 2018.",
+            "url": "https://www.nytimes.com/2019/11/20/us/hurricane-michael-florida-fraud.html",
+            "urlToImage": "https://static01.nyt.com/images/2018/11/14/us/19xp-hurricanefraud-sub/19xp-hurricanefraud-sub-facebookJumbo-v2.jpg",
+            "publishedAt": "2019-11-20T13:21:46Z",
+            "content": "Afterward, the authorities said, the two men asked FEMA to reimburse the city for that money. \r\nOne of the falsified invoices, for example, claimed that employees from Erosion Control Specialists removed debris and performed cleaning activities in Lynn Haven,… [+1354 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Matthew Robinson, CNN",
+            "title": "What was the Aberfan disaster, seen in 'The Crown' episode 3?",
+            "description": "The return of Netflix's hit drama \"The Crown\" after a two-year hiatus spotlights a dark chapter in modern British history: the Aberfan disaster.",
+            "url": "https://www.cnn.com/2019/11/22/entertainment/the-crown-aberfan-disaster-1966-queen-intl-scli/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/191119100046-queen-elizabeth-ii-aberfan-1966-restricted-super-tease.jpg",
+            "publishedAt": "2019-11-22T11:00:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-new-york-times",
+                "name": "The New York Times"
+            },
+            "author": "Rory Smith",
+            "title": "Families of Hillsborough Victims Are Again Left Without Answers",
+            "description": "A not-guilty ruling related to the 1989 disaster presented a difficult reality: The 96 who died were unlawfully killed, but nobody, most likely, will ever be held responsible.",
+            "url": "https://www.nytimes.com/2019/11/29/sports/soccer/hillsborough-disaster-trial.html",
+            "urlToImage": "https://static01.nyt.com/images/2019/11/28/sports/28onsoccerweb-1/28onsoccerweb-1-facebookJumbo.jpg",
+            "publishedAt": "2019-11-29T06:00:08Z",
+            "content": "The Premier League has become the most popular domestic competition in the world, in part, because of its backdrop modern stadiums, packed with fans and its atmosphere: certainly, compared to what came before, more family-friendly, comfortable and safe. An un… [+1968 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Yessenia Funes on Earther, shared by Andrew Couts to Gizmodo",
+            "title": "Closed Schools, Delayed Flights, and Restricted Cars: India's Air Pollution Disaster",
+            "description": "The air quality of Delhi, India, is growing so dangerous for human health that officials in the capital territory on Monday began to restrict vehicle use in a bid to prevent the situation from worsening. In fact, the region saw record-breaking air pollution o…",
+            "url": "https://earther.gizmodo.com/closed-schools-delayed-flights-and-restricted-cars-i-1839607214",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/yxm8drwhfsjvq0sgpe81.jpg",
+            "publishedAt": "2019-11-04T16:59:00Z",
+            "content": "The air quality of Delhi, India, is growing so dangerous for human health that officials in the capital territory on Monday began to restrict vehicle use in a bid to prevent the situation from worsening. In fact, the region saw record-breaking air pollution o… [+2627 chars]"
+        },
+        {
+            "source": {
+                "id": "the-new-york-times",
+                "name": "The New York Times"
+            },
+            "author": "Rory Smith",
+            "title": "Families of Hillsborough Victims Are Again Left Without Answers",
+            "description": "A not-guilty ruling related to the 1989 disaster presented a difficult reality: The 96 who died were unlawfully killed, but nobody, most likely, will ever be held responsible.",
+            "url": "https://www.nytimes.com/2019/11/29/sports/soccer/hillsborough-ruling.html",
+            "urlToImage": "https://static01.nyt.com/images/2019/11/28/sports/28onsoccerweb-1/28onsoccerweb-1-facebookJumbo.jpg",
+            "publishedAt": "2019-11-29T06:00:08Z",
+            "content": "The Premier League has become the most popular domestic competition in the world, in part, because of its backdrop modern stadiums, packed with fans and its atmosphere: certainly, compared to what came before, more family-friendly, comfortable and safe. An un… [+1968 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Andy Moser",
+            "title": "Chrissy Teigen's son and Billie Eilish have both been turned into a very familiar meme",
+            "description": "Celeb couple Chrissy Teigen and John Legend's son Miles is becoming his own meme thanks to a funny resemblance to the Disaster Girl meme. Teigen posted side-by-side images of Miles and Disaster Girl on Twitter and, well, just look at it. Oh no pic.twitter.com…",
+            "url": "https://mashable.com/article/chrissy-teigen-son-billie-eilish-meme-lookalike/",
+            "urlToImage": "https://mondrian.mashable.com/2019%252F11%252F25%252F9f%252Faf9586818ba04b52878eaa7681e3cc30.b0238.png%252F1200x630.png?signature=rzIZ1cYeSKRu1LNEhvNheT_74HU=",
+            "publishedAt": "2019-11-25T15:48:12Z",
+            "content": "Celeb couple Chrissy Teigen and John Legend's son Miles is becoming his own meme thanks to a funny resemblance to the Disaster Girl meme.  \r\nTeigen posted side-by-side images of Miles and Disaster Girl on Twitter and, well, just look at it.\r\n\"Girl deviously g… [+363 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Nick Douglas",
+            "title": "Don't Tear Down Chesterton's Fence",
+            "description": "There’s this incredibly stupid phenomenon in Hollywood studios. When a new studio exec replaces an old one, they throw out all the old film projects in development, and they start new ones. You’ve seen this happen in your own industry (and so have I), because…",
+            "url": "https://lifehacker.com/dont-tear-down-chestertons-fence-1839669911",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/wvgnjyfmg5z4kfucz6pa.jpg",
+            "publishedAt": "2019-11-06T20:00:00Z",
+            "content": "Theres this incredibly stupid phenomenon in Hollywood studios. When a new studio exec replaces an old one, they throw out all the old film projects in development, and they start new ones. Youve seen this happen in your own industry (and so have I), because t… [+2612 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Dharna Noor on Earther, shared by Brian Kahn to Gizmodo",
+            "title": "The Energy Upside to Ilhan Omar's Trillion-Dollar Public Housing Plan",
+            "description": "The nation’s 1.3 million public housing units are woefully underprepared for the worsening climate crisis. Nearly half a million government-subsidized households are in flood plains, and when climate disaster hits, affordable units are less likely to get rebu…",
+            "url": "https://earther.gizmodo.com/the-energy-upside-to-ilhan-omars-trillion-dollar-public-1840039751",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/h8remltxqnswvtltsmuy.jpg",
+            "publishedAt": "2019-11-26T21:05:00Z",
+            "content": "The nations 1.3 million public housing units are woefully underprepared for the worsening climate crisis. Nearly half a million government-subsidized households are in flood plains, and when climate disaster hits, affordable units are less likely to get rebui… [+6409 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "George Dvorsky",
+            "title": "Eruption of Indonesian Volcano in 2018 Generated a Tsunami at Least 330 Feet High",
+            "description": "The eruption of Anak Krakatoa in 2018 produced a tsunami that, for a short while, was somewhere between 330 to 492 feet tall, according to new research. Had the Indonesian shoreline been closer to the volcano, this disaster would’ve been much worse. Read more…",
+            "url": "https://gizmodo.com/eruption-of-indonesian-volcano-in-2018-generated-a-tsun-1840097423",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/etvxh14wjuoezk2xklkj.jpg",
+            "publishedAt": "2019-11-29T21:00:00Z",
+            "content": "The eruption of Anak Krakatoa in 2018 produced a tsunami that, for a short while, was somewhere between 330 to 492 feet tall, according to new research. Had the Indonesian shoreline been closer to the volcano, this disaster wouldve been much worse. \r\nWhen Ana… [+3266 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Sean Gallagher",
+            "title": "Hacker’s paradise: Louisiana’s ransomware disaster far from over",
+            "description": "Lost files and issues with backup management keep affecting Medicaid, other services.",
+            "url": "https://arstechnica.com/information-technology/2019/11/hackers-paradise-louisianas-ransomware-disaster-far-from-over/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/11/GettyImages-1084725266-1-760x380.jpg",
+            "publishedAt": "2019-11-27T19:20:38Z",
+            "content": "Enlarge/ Louisiana State Capitol, Baton Rouge, Louisiana, at dusk.\r\n0 with 0 posters participating\r\nLouisiana has brought some of its services back as it recovers from a targeted ransomware attack using the Ryuk malware on November 18. The state's Office of M… [+3130 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "George Dvorsky",
+            "title": "Deepfake Art Project Reimagines Nixon’s Speech Had Apollo 11 Gone Horribly Wrong",
+            "description": "A prepared speech that President Richard Nixon thankfully never had to make has been brought to life in an art project that poses the question: Can a deepfake rewrite history? Read more...",
+            "url": "https://gizmodo.com/deepfake-art-project-reimagines-nixon-s-speech-had-apol-1840049001",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/zsykg8qm9bm3gitefxfp.png",
+            "publishedAt": "2019-11-26T17:20:00Z",
+            "content": "A prepared speech that President Richard Nixon thankfully never had to make has been brought to life in an art project that poses the question: Can a deepfake rewrite history? \r\nAs Apollo 11 astronauts Neil Armstrong, Buzz Aldrin, and Michael Collins traveled… [+2998 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Npr.org"
+            },
+            "author": "Scott Detrow",
+            "title": "'A Disaster': Impeachment Could Sideline Senators In 2020 Presidential Campaign",
+            "description": "An impeachment trial could keep Elizabeth Warren, Bernie Sanders and other senators running for president stuck in Washington in the final weeks before the Iowa caucuses.",
+            "url": "https://www.npr.org/2019/11/06/776182132/a-disaster-impeachment-could-sideline-senators-in-2020-presidential-campaign",
+            "urlToImage": "https://media.npr.org/assets/img/2019/11/05/gettyimages-1169640284_wide-fb1dfbddebb5e6dc433df2dd89214d8cbaaf3fe7.jpg?s=1400",
+            "publishedAt": "2019-11-06T10:00:23Z",
+            "content": "An impeachment trial early next year could keep Sen. Elizabeth Warren, silhouetted during a town hall in Iowa, and other Democratic presidential candidates off the trail at a crucial time.\r\nJoshua Lott/Getty Images\r\nMassachusetts Sen. Elizabeth Warren has bee… [+6297 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Brazil dam owner Vale failed to report danger signs - regulator",
+            "description": "The Feijão dam in Minas Gerais state collapsed in January killing at least 250 people.",
+            "url": "https://www.bbc.co.uk/news/world-latin-america-50310768",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p07gnfpp.jpg",
+            "publishedAt": "2019-11-05T22:13:49Z",
+            "content": "Media captionThe moment the dam collapsed\r\nThe collapse of a dam that killed at least 250 people in Brazil in January could have been prevented if its owner had reported defects to authorities, the mining regulator says.\r\nThe National Mineral Agency (ANM) sai… [+2213 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Daniel Cooper",
+            "title": "NTSB blames Uber’s 'inadequate safety culture' for self-driving fatality",
+            "description": "The NTSB has lambasted Uber's \" inadequate safety culture \" and \"lack of risk assessment mechanisms\" before its self-driving fatality. In March 2018, an autonomous 2017 Volvo XC90 struck and killed pedestrian Elaine Herzberg as she crossed the street in Tempe…",
+            "url": "https://www.engadget.com/2019/11/20/ntsb-blames-uber-s-inadequate-safety-culture-for-self-driving/",
+            "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5900%252C3952%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1072%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-11%252F44c250d0-0b86-11ea-8bcf-e5047ddd62dd%26client%3Da1acac3e1b3290917d92%26signature%3D985201c33ba71c2dc270a010acc380eceea63868&client=amp-blogside-v2&signature=5ca0ea96c19f96c15fd4b5b66d889da362971c74",
+            "publishedAt": "2019-11-20T12:35:00Z",
+            "content": "According to the NTSB's findings, the Uber vehicle detected Herzberg 5.6 seconds before the crash, but did not identify them as a pedestrian. \"Had the operator been attentive,\" it added, they would \"likely have had enough time to detect and react to\" the even… [+1708 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "MIT’s self-propelled block robots can now manage basic swarm coordination",
+            "description": "MIT’s Computer Science and Artificial Intelligence Laboratory has come up with a clever way for its small cube-like robots, which can move on their own, to communicate and coordinate with one another for self-assembly. The behavior is described by MIT researc…",
+            "url": "http://techcrunch.com/2019/11/01/mits-self-propelled-block-robots-can-now-manage-basic-swarm-coordination/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/robotblocks.gif?w=764",
+            "publishedAt": "2019-11-01T16:28:45Z",
+            "content": "MIT’s Computer Science and Artificial Intelligence Laboratory has come up with a clever way for its small cube-like robots, which can move on their own, to communicate and coordinate with one another for self-assembly. The behavior is described by MIT researc… [+1034 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "KATHY McCORMACK / AP",
+            "title": "Last Survivor of 1937 Hindenburg Disaster Dies at Age 90",
+            "description": "Werner Gustav Doehner was among 62 passengers and crew who escaped the fire that killed his father, sister and 34 others.",
+            "url": "https://time.com/5731137/hindenburg-disaster-survivor-dead/",
+            "urlToImage": "https://timedotcom.files.wordpress.com/2019/11/hindenburg-fire.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2019-11-16T21:49:41Z",
+            "content": "(CONCORD, N.H.) — The last remaining survivor of the Hindenburg disaster, who suffered severe burns to his face, arms and legs before his mother managed to toss him and his brother from the burning airship, has died.\r\nWerner Gustav Doehner, the last among 62 … [+2578 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Miller Kern",
+            "title": "Here's what you need to get your home ready for holiday guests",
+            "description": "In case you haven't heard: Walmart is already celebrating Black Friday. We've started seeing tons of great deals and we're still more than a week away from actual Black Friday. Some of the sales are so great that it's worth snatching them up now rather than w…",
+            "url": "https://mashable.com/shopping/nov-19-robot-stick-upright-vacuum-cleaners/",
+            "urlToImage": "https://mondrian.mashable.com/2019%252F11%252F19%252Fb6%252Fe615be11c8c748c3879a3261cabe864f.f815e.png%252F1200x630.png?signature=dvVqZxNEQpfO_3hlUdEV8e_x4d8=",
+            "publishedAt": "2019-11-19T16:27:25Z",
+            "content": "In case you haven't heard: Walmart is already celebrating Black Friday. We've started seeing tons of great deals and we're still more than a week away from actual Black Friday.\r\nSome of the sales are so great that it's worth snatching them up now rather than … [+577 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo.com"
+            },
+            "author": "Hiroshi HIYAMA",
+            "title": "Japan's quake, tsunami, nuclear disaster: What happened in 2011",
+            "description": "Pope Francis will meet in Japan with victims of the enormous earthquake and tsunami of 2011 that triggered the Fukushima nuclear meltdown -- sometimes referred to as the \"triple disaster\". At 2:46 pm (0546 GMT) of March 11, 2011, a 9.0-magnitude underwater qu…",
+            "url": "https://news.yahoo.com/japans-quake-tsunami-nuclear-disaster-happened-2011-191642605.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5VUOj4HRMmp_Mt79W5PK7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTEuNjY2NjY2NjY2NjY2Ng--/https://s.yimg.com/uu/api/res/1.2/DHqszPfZgsCLHAU0ZL7a1g--~B/aD01MTE7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/News/afp.com/770b902e40015f49c7bf25bf5c72f304649775db.jpg",
+            "publishedAt": "2019-11-24T19:16:42Z",
+            "content": "Pope Francis will meet in Japan with victims of the enormous earthquake and tsunami of 2011 that triggered the Fukushima nuclear meltdown -- sometimes referred to as the \"triple disaster\".\r\nHere are some of the details of the tragedy that struck on March 11, … [+3781 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo.com"
+            },
+            "author": "Reuters",
+            "title": "Forty years on, New Zealand apologizes for Antarctic plane disaster",
+            "description": "New Zealand Prime Minister Jacinda Ardern apologized on Thursday for the then-government's handling of a plane crash in Antarctica 40 years ago that took the lives of 257 people in the country's worst peacetime disaster. On 28 November 1979, Air New Zealand f…",
+            "url": "https://news.yahoo.com/forty-years-zealand-apologizes-antarctic-041857054.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xMSPIxTT3utc9I8exz8DkQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NjcuMg--/https://s.yimg.com/uu/api/res/1.2/NWynDd5RNhkI5HDY4V6eoQ--~B/aD01NDI7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/ef9af54a201cbc9d7d5fd1158533e2d0",
+            "publishedAt": "2019-11-28T04:18:57Z",
+            "content": "WELLINGTON (Reuters) - New Zealand Prime Minister Jacinda Ardern apologized on Thursday for the then-government's handling of a plane crash in Antarctica 40 years ago that took the lives of 257 people in the country's worst peacetime disaster.\r\nOn 28 November… [+2127 chars]"
+        }
+    ]
+}
