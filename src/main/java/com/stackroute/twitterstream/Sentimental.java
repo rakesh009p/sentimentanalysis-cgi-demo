@@ -20,7 +20,7 @@ import java.util.Properties;
 
 public class Sentimental {
 
-    String string = "The movie  is very  good ";
+    String string = "The movie  is bad  ";
     public double findSentiment() {
         Properties props = new Properties();
         props.setProperty("annotators", "tokenize, ssplit,pos, parse, sentiment, lemma");

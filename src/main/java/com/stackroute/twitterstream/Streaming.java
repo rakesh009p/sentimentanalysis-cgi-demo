@@ -1,8 +1,6 @@
 package com.stackroute.twitterstream;
 
 
-
-
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.reactive.function.client.WebClient;
@@ -24,7 +22,7 @@ public class Streaming {
     public Flux<Object> getTweets() {
         List<Object> myArray = new ArrayList<>();
         Flux<?> response = Flux.fromIterable(myArray);
-        System.out.println(response);
+
 
         return client.get()
                 .uri("users/show.json?screen_name=narendramodi")
@@ -33,15 +31,13 @@ public class Streaming {
                 .bodyToFlux(Object.class);
 
 
-
     }
 
     public static void main(String[] args) {
-        Streaming streams=new Streaming();
-        Mono<? extends List<?>> collect = streams.getTweets().collect(Collectors.toList());
+        Streaming streams = new Streaming();
+        Mono<List<Object>> collect = streams.getTweets().collect(Collectors.toList());
         System.out.println(collect);
     }
-
 
 
 }
